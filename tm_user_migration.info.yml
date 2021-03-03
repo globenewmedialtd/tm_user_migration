@@ -1,0 +1,7 @@
+name: TM User Migration Example
+description: 'Example User Migration for thinkmodular.'
+type: module
+core: 8.x
+dependencies:
+  - drupal:migrate_tools
+  - drupal:migrate_drupal_d8
