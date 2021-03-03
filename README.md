@@ -29,4 +29,8 @@ $databases['d8_source_site']['default'] = array(
 );
 ```
 
+Screenshots:
 
+![image](https://user-images.githubusercontent.com/73037419/109866004-0e656800-7c65-11eb-96f2-861f4d9264b7.png)
+
+![image](https://user-images.githubusercontent.com/73037419/109866057-191ffd00-7c65-11eb-82d7-22e74456de21.png)
