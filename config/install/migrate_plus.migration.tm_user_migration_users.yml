@@ -9,7 +9,7 @@ migration_tags: null
 migration_group: tm_user_migration
 label: 'Users Migration'
 source:
-  plugin: d8_entity
+  plugin: tm_custom_user
   key: d8_source_site
   entity_type: user
 process:

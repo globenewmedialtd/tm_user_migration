@@ -13,7 +13,7 @@ use Drupal\migrate\Row;
  *   source_provider = "migrate_drupal_d8"
  * )
  */
-class TmUser extends ContentEntity {
+class TmCustomUser extends ContentEntity {
 
   /**
    * {@inheritdoc}
