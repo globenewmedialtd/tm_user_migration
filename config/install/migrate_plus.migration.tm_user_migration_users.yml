@@ -24,6 +24,9 @@ process:
   timezone: timezone
   init: init
   roles: roles
+  langcode: langcode
+  preferred_langcode: preferred_langcode
+  preferred_admin_langcode: preferred_admin_langcode
 destination:
   plugin: 'entity:user'
 migration_dependencies: null
